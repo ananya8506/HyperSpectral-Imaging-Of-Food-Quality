@@ -58,9 +58,11 @@ What Is NIR AS7265x?
 All optical characteristics are optimized for diffused light. When using a point light source or collimated light on the sensor, the sensor opening must be covered by Lambertian diffuser with achromatic characteristics.
 ![image](https://github.com/user-attachments/assets/f66d7b49-1303-437f-b2cb-b902347d4600)
 
+![image](https://github.com/user-attachments/assets/d281b3a8-e86c-4a5f-b254-bd22a8f0c597)
+
  ![image](https://github.com/user-attachments/assets/10ce9052-505a-40b8-9a8e-bdf1d7527b97)
 
- ![image](https://github.com/user-attachments/assets/7023b4b9-924d-454a-bb4f-2f700195e960)
+
 
 9.	The accuracy of the AS7265x sensor’s optical filters depends on the angle of light entering the sensor. To ensure accurate spectral readings, the sensor’s field of view is limited to ±20.5°.
 
